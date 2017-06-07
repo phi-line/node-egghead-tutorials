@@ -11,6 +11,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.15.3"
+    "consolidate": "^0.14.5",
+    "express": "^4.15.3",
+    "handlebars": "^4.0.10",
+    "i": "^0.3.5"
+  },
+  "devDependencies": {
+    "jade": "^1.11.0"
   }
 }
